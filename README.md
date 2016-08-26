@@ -1,6 +1,6 @@
 # HtmlTutorialToPdf
 TestCommand
-import HtmlItTutorialBookGenerator 
+import HtmlItTutorialBookGenerator
 t = HtmlItTutorialBookGenerator.HtmlItTutorialBookGenerator
 t.startPage = "http://www.html.it/guide/git-la-guida/?cref=development"
 t.outputPath = "pythonTest/tutorial"
